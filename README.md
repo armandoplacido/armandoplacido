@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&size=30&multiline=true&width=500&height=120&lines=I+AM+ARMANDO;WEB%2FMOBILE+DEVELOPER+JR.;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&size=40&multiline=true&width=700&height=150&lines=I+AM+ARMANDO;WEB%2FMOBILE+DEVELOPER+JR.;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently studying at <a title="Centro Universitário Tiradentes" href="https://al.unit.br/">Tiradentes Institute</a>
 
