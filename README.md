@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at <a title="Centro Universitário Tiradentes" href="https://al.unit.br/">Tiradentes Institute</a>
 
-- 💻 I’m currently working on <a title="Flutter" href="#"><img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter"></a> <a title="Next js" href="#"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></a> <a title="Angular" href="#"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"></a>
+- 💻 I’m currently working on <a title="Node" href="#"><img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter"></a> <a title="Next js" href="#"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></a> <a title="Angular" href="#"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"></a>
 
 -  🔨 also use and work:  <a title="Framer" href="#"><img src="https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue"></a>  <a title="Figma" href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"></a> <a title="Git" href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"></a> <a title="Vercel" href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"></a>
 
